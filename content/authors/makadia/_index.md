@@ -45,7 +45,7 @@ education:
     institution: Rutgers University, New Brunswick
     year: 2029
 
-  - course: Bachelor of Technology
+  - course: Bachelor of Technology in Computer science and Engineering 
     institution: Ahmedabad University
     year: 2024
 
@@ -68,4 +68,9 @@ user_groups:
 - Grad Students
 
 ---
+
+Omikumar Bhavinkumar Makadia received the Bachelor’s in technology degree in Computer Science and Engineering from Ahmedabad University, India. He is currently pursuing the Ph.D. degree in Electrical and Computer Engineering at Rutgers University, NJ, USA. His research interests lie at the intersection of wireless communication and machine learning. 
+
+
+
 
