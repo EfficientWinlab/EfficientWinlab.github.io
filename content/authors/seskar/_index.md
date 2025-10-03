@@ -4,7 +4,7 @@ title: Ivan Seskar
 
 # Username (this should match the folder name)
 authors:
-- Ivan Seskar
+- seskar
 
 #Author Names (alternative spellings etc)
 names:

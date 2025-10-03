@@ -4,7 +4,7 @@ title: Narayan Mandayam
 
 # Username (this should match the folder name)
 authors:
-- Narayan Mandayam
+- mandayam
 
 #Author Names (alternative spellings etc)
 names:
