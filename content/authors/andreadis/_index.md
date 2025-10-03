@@ -68,7 +68,7 @@ social:
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-- Grad Students
+- Principal Investigators
 
 ---
 
