@@ -44,11 +44,11 @@ education:
   courses:
   - course: Ph.D. in Electrical and Computer Engineering
     institution: Rutgers University, New Brunswick
-    year: 2027
+    year: 2029
 
   - course: Diploma in Electrical and Computer Engineering
     institution: Technical University of Crete
-    year: 2023
+    year: 2024
 
 # Social/Academic Networking
 social:
