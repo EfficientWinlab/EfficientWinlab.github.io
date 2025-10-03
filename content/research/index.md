@@ -6,25 +6,25 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: "Thrust 1: Wireless Systems"
+      title: "Thrust 1: Framework for Multidimensional Spectrum Situational Awareness using a Backscatter Fabric"
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin feugiat, metus nec aliquam dignissim, nulla lectus dignissim neque, vel ultricies nulla orci in ipsum. Suspendisse potenti. Donec sit amet turpis ut ligula fermentum hendrerit.
+         Modeldriven, non-coherent spectrum awareness algorithms; design and prototype of wideband embedded backscatter radio tags; Scalability challenges surrounding the use of backscatter fabrics for wide swaths of spectral bands.
     design:
       columns: '1'
 
   - block: markdown
     content:
-      title: "Thrust 2: Machine Learning for Communications"
+      title: "Thrust 2: Framework for Spectrum Protection from Interference"
       text: |-
-        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+        Development at the PHY layer of non-coherent, data-driven, DoA-assisted algorithms that cancel interference at desired locations.
     design:
       columns: '1'
 
   - block: markdown
     content:
-      title: "Thrust 3: Spectrum Security"
+      title: "Thrust 3: Experimental Evaluation on the COSMOS Testbed using the Illustrative Example of 5G Terrestrial Network and SAT Coexistence in FR3 spectrum"
       text: |-
-        At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.
+        Spectrum situational awareness of 5G Transmissions in the 12.2-12.7 GHz bands will be demonstrated; spectrum protection of non-geostationary orbit-fixed satellite service (NGSO-FSS) receivers against 5G transmissions in the 12.2-12.7 GHz bands will be also tested.
     design:
       columns: '1'
 ---
