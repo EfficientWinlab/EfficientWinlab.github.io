@@ -1,17 +1,11 @@
 ---
-widget: hero
-headless: true
-weight: 10
-title: |
-  BackscattEr FabrIC For MultidImensional Spectrum Situational Awareness and Protection
-hero_media: ""  # no main image, logos will go in custom HTML
-design:
-  columns: '2'
-  css_style:
-  css_class:
+title: "BackscattEr FabrIC For MultidImensional Spectrum Situational Awareness and Protection"
+date: 2022-10-24
+type: landing
 ---
 
-<div style="display:flex; flex-wrap:wrap; gap:20px; align-items:flex-start;">
+<!-- Hero Section -->
+<div style="display:flex; flex-wrap:wrap; gap:20px; align-items:flex-start; margin-bottom:40px;">
 
   <!-- Left column: logos -->
   <div style="flex:1 1 300px; text-align:center;">
@@ -30,7 +24,18 @@ design:
 
 </div>
 
-<!-- Image below the columns -->
-<div style="text-align:center; margin-top:30px;">
+<!-- Image Below Hero -->
+<div style="text-align:center; margin-bottom:40px;">
   <img src="efficient.png" alt="Efficient" style="max-width:80%; height:auto; border-radius:8px;">
+</div>
+
+<!-- Recent Publications -->
+<div style="margin-bottom:40px;">
+  <h2>Recent Publications</h2>
+  {{< collection folders="publication" count="5" view="citation" >}}
+</div>
+
+<!-- Team CTA -->
+<div style="text-align:center; margin-top:40px;">
+  {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
 </div>
