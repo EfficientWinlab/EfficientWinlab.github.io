@@ -26,7 +26,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        # publication_type: 'any'
     design:
       view: citation
       columns: '1'
