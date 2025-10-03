@@ -8,7 +8,8 @@ sections:
   - block: hero
     content:
       text: |
-        <div style="display: flex; width: 100%; align-items: flex-start; justify-content: space-between;">
+        <!-- Two-column layout -->
+        <div style="display: flex; width: 100%; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
           
           <!-- Left column: logos and WINLAB name -->
           <div style="flex: 0 0 50%; text-align: center;">
@@ -18,7 +19,7 @@ sections:
           </div>
 
           <!-- Right column: project title and description -->
-          <div style="flex: 0 0 50%; padding-left: 30px;">
+          <div style="flex: 0 0 50%; padding-left: 30px; box-sizing: border-box;">
             <h1 style="font-size: 2em; margin-bottom: 15px;">BackscattEr FabrIC For MultidImensional Spectrum Situational Awareness and Protection</h1>
             <p style="font-size: 1em; line-height: 1.5;">
               The next era of spectrum is envisioned to have spatially and spectrally adjacent systems that are dynamic, resulting in frequent cross-system interference. This project enables affordable, accurate, near-real-time spectrum situational awareness, including simple spectrum sensing algorithms, distributed mechanisms, and relevant spectrum sensing hardware. In addition, it targets mechanisms at the physical layer that provide radio waveform protection against unwanted interference without modifying existing infrastructure. Techniques include model-based and machine learning approaches, focusing on multidimensional awareness and interference protection. The work aims to demonstrate these principles in the FR3 band using the COSMOS Testbed for next-generation wireless coexistence scenarios.
@@ -27,8 +28,8 @@ sections:
 
         </div>
 
-        <!-- Efficient image below, centered -->
-        <div style="text-align: center; margin-top: 30px;">
+        <!-- Image below both columns -->
+        <div style="text-align: center; margin-top: 30px; width: 100%;">
           <img src="efficient.png" alt="Efficient" style="max-width: 80%; height: auto; border-radius: 8px;">
         </div>
   
