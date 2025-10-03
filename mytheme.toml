@@ -1,0 +1,28 @@
+# data/themes/mytheme.toml
+name = "mytheme"
+
+# Brand colors
+primary = "#0044cc"
+primary_light = "#4d79ff"
+primary_dark = "#002fbdff"
+
+# Background colors
+background = "#ffffff"
+background_dark = "#000000"
+
+# Surface (cards, sections)
+surface = "#f7f7f7"
+surface_dark = "#1e1e1e"
+
+# Text
+text = "#000000"
+text_dark = "#ffffff"
+
+# Links
+link = "#0044cc"
+link_hover = "#002080"
+
+# Menu
+menu_primary = "#ffffff"
+menu_text = "#000000"
+menu_text_active = "#0044cc"

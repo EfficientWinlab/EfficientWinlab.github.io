@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: light        # Light theme when in "day" mode
-  theme_night: dark       # Dark theme when in "night" mode
+  theme_day: minimal        # Light theme when in "day" mode
+  theme_night: mytheme       # Dark theme when in "night" mode
   font: native
   font_size: L
   mode: auto              # auto = follow system preference + show switch
