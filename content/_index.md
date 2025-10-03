@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       text: |
-        <div style="width: 100vw; padding: 10px 60px; box-sizing: border-box;">
+        <div style="width: 100vw; padding: 10px 50px; box-sizing: border-box;">
 
           <!-- Project title -->
           <h1 style="font-size: 2.5em; margin-bottom: 20px; text-align: left;">
