@@ -8,17 +8,17 @@ sections:
     content:
       text: |
         <!-- Two-column layout -->
-        <div style="display: flex; width: 100%; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+        <div style="display: flex; flex-wrap: wrap; width: 100%; align-items: flex-start; justify-content: space-between; gap: 20px;">
 
           <!-- Left column: logos -->
-          <div style="flex: 1; text-align: center; padding-right: 20px;">
+          <div style="flex: 1 1 300px; text-align: center;">
             <img src="nsf.png" alt="NSF" style="height:150px; margin-bottom: 20px;">
             <img src="winlab.png" alt="WINLAB" style="height:150px; margin-bottom: 20px;">
             <div style="font-weight: bold; font-size: 18px;">Wireless Information Network Laboratory (WINLAB)</div>
           </div>
 
           <!-- Right column: title and paragraph -->
-          <div style="flex: 1; padding-left: 20px;">
+          <div style="flex: 2 1 400px; padding-left: 20px; min-width: 250px;">
             <h1 style="font-size: 2em; margin-bottom: 15px;">
               BackscattEr FabrIC For MultidImensional Spectrum Situational Awareness and Protection
             </h1>
@@ -29,14 +29,11 @@ sections:
 
         </div>
 
-  # Bottom full-width image
-  - block: markdown
-    content:
-      text: |
+        <!-- Image below the columns -->
         <div style="text-align: center; margin-top: 30px;">
           <img src="efficient.png" alt="Efficient" style="max-width: 80%; height: auto; border-radius: 8px;">
         </div>
-
+        
   - block: collection
     content:
       title: Recent Publications
