@@ -4,6 +4,10 @@ title: Georgios Andreadis
 name: 
 - Georgios Andreadis
 
+# Username (this should match the folder name)
+authors:
+- andreadis
+
 last_name: Andreadis
 first_name: Georgios
 
