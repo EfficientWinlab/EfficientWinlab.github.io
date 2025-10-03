@@ -8,23 +8,25 @@ sections:
   - block: hero
     content:
       text: |
-        <div style="text-align: center; max-width: 800px; margin: 0 auto;">
+        <div style="width: 100%; padding: 20px;">
 
           <!-- Project title -->
-          <h1 style="font-size: 2.5em; margin-bottom: 15px;">
+          <h1 style="font-size: 2.5em; margin-bottom: 15px; text-align: left;">
             BackscattEr FabrIC For MultidImensional Spectrum Situational Awareness and Protection
           </h1>
 
           <!-- Project description -->
-          <p style="font-size: 1.1em; line-height: 1.5; margin-bottom: 20px;">
+          <p style="font-size: 1.1em; line-height: 1.5; margin-bottom: 20px; text-align: left;">
             The next era of spectrum is envisioned to have spatially and spectrally adjacent systems that are dynamic, resulting in frequent cross-system interference. This project enables affordable, accurate, near-real-time spectrum situational awareness, including simple spectrum sensing algorithms, distributed mechanisms, and relevant spectrum sensing hardware. In addition, it targets mechanisms at the physical layer that provide radio waveform protection against unwanted interference without modifying existing infrastructure. Techniques include model-based and machine learning approaches, focusing on multidimensional awareness and interference protection. The work aims to demonstrate these principles in the FR3 band using the COSMOS Testbed for next-generation wireless coexistence scenarios.
           </p>
 
           <!-- Image -->
-          <img src="efficient.png" alt="Efficient" style="width:100%; max-width:400px; display:block; margin: 20px auto;">
+          <div style="text-align: center; margin-bottom: 30px;">
+            <img src="efficient.png" alt="Efficient" style="width:100%; max-width:600px; display:block; margin: 0 auto;">
+          </div>
 
           <!-- Logos side by side with names below -->
-          <div style="display: flex; justify-content: center; gap: 50px; margin-top: 30px; flex-wrap: wrap;">
+          <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; margin-bottom: 20px;">
 
             <!-- NSF logo and name -->
             <div style="text-align: center;">
