@@ -68,4 +68,6 @@ social:
 user_groups:
 - Grad Students
 
+---
+
 Anastasios Kleniatis is a second-year doctoral student in the Department of Electrical and Computer Engineering at Rutgers University, where he conducts his research under the supervision of Professor Aggelos Bletsas. He holds a Diploma in Electrical and Computer Engineering from the Technical University of Crete. His research interests focus on wireless communications and the application of machine learning methods in this domain.

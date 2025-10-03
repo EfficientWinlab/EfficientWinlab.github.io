@@ -23,8 +23,6 @@ university: Utah
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
-bio: |
-- Georgios Andreadis received the five-year Diploma degree in Electrical and Computer Engineering from the Technical University of Crete, Greece, in 2024. He is currently pursuing the Ph.D. degree with WINLAB, Rutgers University, NJ, USA. His research interests include low-power wireless communications, Bluetooth Low Energy (BLE) and RFID tag localization, integrated sensing and communication (ISAC), and signal processing.
 
 interests:
 - Ultra-Low Power Communications
@@ -51,3 +49,5 @@ social:
     icon_pack: fab
     link: https://linkedin.com/in/gandreadis-
 ---
+
+Georgios Andreadis received the five-year Diploma degree in Electrical and Computer Engineering from the Technical University of Crete, Greece, in 2024. He is currently pursuing the Ph.D. degree with WINLAB, Rutgers University, NJ, USA. His research interests include low-power wireless communications, Bluetooth Low Energy (BLE) and RFID tag localization, integrated sensing and communication (ISAC), and signal processing.
