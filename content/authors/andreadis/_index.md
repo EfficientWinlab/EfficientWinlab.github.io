@@ -44,7 +44,6 @@ interests:
 
 education:
   courses:
-  courses:
   - course: Ph.D. in Electrical and Computer Engineering
     institution: Rutgers University, New Brunswick
     year: 2029
