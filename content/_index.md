@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       # Replace the top-left site title with an icon
-      title: Efficientt
+      title: Efficient
       text: |
         <br>
         <img src="nsf.png" alt="NSF" style="height:80px; margin-right:20px;">
