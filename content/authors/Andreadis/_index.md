@@ -1,5 +1,12 @@
 ---
 title: Georgios Andreadis
+
+name: 
+- Georgios Andreadis
+
+last_name: Andreadis
+first_name: Georgios
+
 role: PhD Student
 user_groups:
   - Grad Students

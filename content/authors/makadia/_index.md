@@ -1,5 +1,13 @@
 ---
 title: Omikumar B. Makadia
+
+name: 
+- Omikumar B. Makadia
+
+last_name: Omikumar
+middle_name: Bhavinkumar
+first_name: Makadia
+
 role: PhD Student
 user_groups:
   - Grad Students

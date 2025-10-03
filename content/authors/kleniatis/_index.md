@@ -1,5 +1,12 @@
 ---
 title: Anastasios Kleniatis
+
+name: 
+- Anastasios Kleniatis
+
+last_name: Kleniatis
+first_name: Anastasios
+
 role: PhD Student
 user_groups:
   - Grad Students
