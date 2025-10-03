@@ -12,7 +12,7 @@ sections:
 
           <!-- Project title -->
           <h1 style="font-size: 2.5em; margin-bottom: 20px; text-align: left;">
-            BackscattEr FabrIC For MultidImensional Spectrum Situational Awareness and Protection
+            EFFICIENT: Backscatter Fabric For Multidimensional Spectrum Situational Awareness and Protection
           </h1>
 
           <!-- Project description -->
