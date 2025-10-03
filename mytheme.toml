@@ -2,9 +2,9 @@
 name = "mytheme"
 
 # Brand colors
-primary = "#0044cc"
-primary_light = "#4d79ff"
-primary_dark = "#002fbdff"
+primary = "#00207fff"
+primary_light = "#00207fff"
+primary_dark = "#00207fff"
 
 # Background colors
 background = "#ffffff"
@@ -12,17 +12,17 @@ background_dark = "#000000"
 
 # Surface (cards, sections)
 surface = "#f7f7f7"
-surface_dark = "#1e1e1e"
+surface_dark = "#000000"
 
 # Text
 text = "#000000"
 text_dark = "#ffffff"
 
 # Links
-link = "#0044cc"
-link_hover = "#002080"
+link = "#00207fff"
+link_hover = "#00207fff"
 
 # Menu
 menu_primary = "#ffffff"
 menu_text = "#000000"
-menu_text_active = "#0044cc"
+menu_text_active = "#00207fff"
