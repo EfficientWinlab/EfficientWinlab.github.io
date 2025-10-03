@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anastasios Kleniatis
+title: Omikumar B. Makadia
 
 # Username (this should match the folder name)
 authors:
@@ -8,9 +8,9 @@ authors:
 
 # Author Names (alternative spellings etc)
 names:
-- Anastasios Kleniatis
-last_name: Kleniatis
-first_name: Anastasios
+- Omikumar Bhavinkumar Makadia
+last_name: Makadia
+first_name: Omikumar
 
 # Is this the primary user of the site?
 superuser: false
@@ -38,7 +38,6 @@ organizations:
 
 interests:
 - Wireless Communications
-- Machine Learning
 
 education:
   courses:
@@ -46,18 +45,18 @@ education:
     institution: Rutgers University, New Brunswick
     year: 2029
 
-  - course: Diploma in Electrical and Computer Engineering
-    institution: Technical University of Crete
+  - course: Bachelor of Technology
+    institution: Ahmedabad University
     year: 2024
 
 # Social/Academic Networking
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:anklen@winlab.rutgers.edu"
+  link: "mailto:om232@winlab.rutgers.edu"
 - icon: linkedin
   icon_pack: fab
-  link: "https://linkedin.com/in/anastasios-kleniatis"
+  link: "https://www.linkedin.com/in/omikumar-bhavinkumar-makadia-4a7686242"
 
 # Link to a PDF of your resume/CV from the About widget.
 # - icon: cv
@@ -70,4 +69,3 @@ user_groups:
 
 ---
 
-Anastasios Kleniatis is a second-year doctoral student in the Department of Electrical and Computer Engineering at Rutgers University, where he conducts his research under the supervision of Professor Aggelos Bletsas. He holds a Diploma in Electrical and Computer Engineering from the Technical University of Crete. His research interests focus on wireless communications and the application of machine learning methods in this domain.

@@ -47,19 +47,19 @@ education:
   - course: Ph.D. in Electrical and Computer Engineering
     institution: Rutgers University, New Brunswick
     year: 2029
-    
-  - course: BSc with Integrated MSc in Electrical and Computer Engineering
-    institution: Technical University of Crete (TUC)
+
+  - course: Diploma in Electrical and Computer Engineering
+    institution: Technical University of Crete
     year: 2024
 
+# Social/Academic Networking
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: "mailto:geoandrs@winlab.rutgers.edu"
-  - icon: linkedin
-    icon_pack: fab
-    link: https://linkedin.com/in/gandreadis-
-
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:geoandrs@winlab.rutgers.edu"
+- icon: linkedin
+  icon_pack: fab
+  link: "https://linkedin.com/in/gandreadis-"
 
 # Link to a PDF of your resume/CV from the About widget.
 # - icon: cv
