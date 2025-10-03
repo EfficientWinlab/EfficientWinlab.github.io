@@ -10,6 +10,9 @@ authors:
 names:
 - Narayan Mandayam
 
+last_name: Mandayam
+first_name: Narayan
+
 # Is this the primary user of the site?
 superuser: false
 

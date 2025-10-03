@@ -8,6 +8,9 @@ role: Professor
 names:
 - Aggelos Bletsas
 
+last_name: Bletsas
+first_name: Aggelos
+
 user_groups:
   - Principal Investigators
 social:
