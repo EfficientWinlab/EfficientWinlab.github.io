@@ -6,10 +6,6 @@ title: Narayan Mandayam
 authors:
 - mandayam
 
-#Author Names (alternative spellings etc)
-names:
-- Narayan Mandayam
-
 # Is this the primary user of the site?
 superuser: false
 
