@@ -6,6 +6,10 @@ title: Ivan Seskar
 authors:
 - seskar
 
+#Author Names (alternative spellings etc)
+names:
+- Ivan Seskar
+
 # Is this the primary user of the site?
 superuser: false
 

@@ -1,6 +1,13 @@
 ---
 title: Aggelos Bletsas
 role: Professor
+
+
+
+#Author Names (alternative spellings etc)
+names:
+- Aggelos Bletsas
+
 user_groups:
   - Principal Investigators
 social:
