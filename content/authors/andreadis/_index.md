@@ -47,6 +47,7 @@ education:
   - course: Ph.D. in Electrical and Computer Engineering
     institution: Rutgers University, New Brunswick
     year: 2029
+    
   - course: BSc with Integrated MSc in Electrical and Computer Engineering
     institution: Technical University of Crete (TUC)
     year: 2024

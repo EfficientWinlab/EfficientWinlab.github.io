@@ -72,7 +72,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=69X35OAAAAAJ&hl=en
-- icon: user-graduate
+- icon: globe
   icon_pack: fas
   link: https://www.winlab.rutgers.edu/~seskar/
 #- icon: github
@@ -83,8 +83,8 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ivan-seskar/ 
-- icon: university-logo
-  icon_pack: Custom_University
+- icon: university
+  icon_pack: fas
   link: https://www.ece.rutgers.edu/ivan-seskar
 # - icon: university
 #   icon_pack: fas

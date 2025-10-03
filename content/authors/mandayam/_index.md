@@ -73,7 +73,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Oykf1qYAAAAJ&hl=en 
-- icon: user-graduate
+- icon: globe
   icon_pack: fas
   link: https://www.winlab.rutgers.edu/~narayan/
 #- icon: github
@@ -84,8 +84,8 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/narayan-mandayam-6936a011 
-- icon: university-logo
-  icon_pack: Custom_University
+- icon: university
+  icon_pack: fas
   link: https://www.ece.rutgers.edu/narayan-mandayam
 # - icon: university
 #   icon_pack: fas

@@ -40,11 +40,14 @@ header:
   navbar:
     enable: true
     align: r
-    show_logo: true
+    show_logo: true          # keep true
+    logo: "rutgers.png"         # path to your navbar icon (place in /static/)
+    logo_height: 40px        # adjust height to fit navbar
     show_language: false
     show_day_night: true
     show_search: true
     highlight_active_link: false
+
 
 # Site footer
 
