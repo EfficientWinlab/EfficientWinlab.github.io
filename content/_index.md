@@ -1,14 +1,14 @@
 ---
-# Leave the homepage title empty to use the site title
-title: '<img src="rutgers.png" alt="Site Icon" style="height:50px;">'
+# Leave the browser tab title unchanged
+title: ""  
 date: 2022-10-24
 type: landing
 
 sections:
   - block: hero
     content:
-      title: |
-        Efficient
+      # Replace the top-left site title with an icon
+      title: '<img src="icon.png" alt="Site Icon" style="height:40px;">'
       text: |
         <br>
         <img src="nsf.png" alt="NSF" style="height:80px; margin-right:20px;">
@@ -17,7 +17,6 @@ sections:
         BackscattEr FabrIC For MultidImensional
         SpEctrum SituatioNal AwarEness and ProTection
   
-
   - block: collection
     content:
       title: Recent Publications
