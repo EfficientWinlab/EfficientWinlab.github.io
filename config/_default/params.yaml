@@ -6,10 +6,15 @@
 # Appearance
 
 appearance:
-  theme_day: dark
-  theme_night: dark
+  theme_day: light        # Light theme when in "day" mode
+  theme_night: dark       # Dark theme when in "night" mode
   font: native
   font_size: L
+  mode: auto              # auto = follow system preference + show switch
+  palette:
+    primary: blue         # Accent color (links, buttons, highlights)
+    neutral: dark
+
 
 # SEO
 
