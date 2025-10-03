@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: '<img src="rutgers.png" alt="Site Icon" style="height:50px;">'
 date: 2022-10-24
 type: landing
 
@@ -26,7 +26,6 @@ sections:
       filters:
         folders:
           - publication
-        # publication_type: 'any'
     design:
       view: citation
       columns: '1'

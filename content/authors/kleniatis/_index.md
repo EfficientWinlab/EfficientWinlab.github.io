@@ -57,7 +57,7 @@ social:
   link: "mailto:anklen@winlab.rutgers.edu"
 - icon: linkedin
   icon_pack: fab
-  link: "https://gr.linkedin.com/in/anastasios-kleniatis"
+  link: "https://linkedin.com/in/anastasios-kleniatis"
 
 # Link to a PDF of your resume/CV from the About widget.
 # - icon: cv
