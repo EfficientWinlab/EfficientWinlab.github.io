@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       text: |
-        <div style="width: 80vw; padding: 40px 60px; box-sizing: border-box;">
+        <div style="width: 60vw; padding: 40px 60px; box-sizing: border-box;">
 
           <!-- Project title -->
           <h1 style="font-size: 2.5em; margin-bottom: 20px; text-align: left;">
@@ -22,7 +22,7 @@ sections:
 
           <!-- Image -->
           <div style="text-align: center; margin-bottom: 40px;">
-            <img src="efficient.png" alt="Efficient" style="width:100%; max-width:800px; display:block; margin: 0 auto;">
+            <img src="efficient.png" alt="Efficient" style="width:100%; max-width:8000px; display:block; margin: 0 auto;">
           </div>
 
           <!-- Logos side by side with names below -->
