@@ -54,6 +54,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:om232@winlab.rutgers.edu"
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=xxzVHQIAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
   link: "https://www.linkedin.com/in/omikumar-bhavinkumar-makadia-4a7686242"
