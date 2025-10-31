@@ -8,7 +8,6 @@ sections:
   - block: hero
     content:
       text: |
-        {{< rawhtml >}}
         <div style="max-width: 3000px; margin: 0 auto; padding: 40px 60px; box-sizing: border-box;">
 
           <!-- Project title -->
@@ -40,7 +39,6 @@ sections:
           </div>
 
         </div>
-        {{< /rawhtml >}}
 
   - block: collection
     content:
