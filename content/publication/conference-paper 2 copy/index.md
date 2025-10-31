@@ -1,13 +1,23 @@
 ---
-title: 'Robust Phase-based BLE Localization with a Single Multi-Antenna Receiver and Neural Networks'
+title: 'DoA of Multiple Sources with an Array of Passive Tags instead of an Antenna Array'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Anastasios Kleniatis
   - Georgios Andreadis
-  - Panos N. Alevizos
+  - Omikumar B. Makadia
+  - Georgios Vougioukas
+  - Ivan Seskar
+  - Narayan Mandayam
+  - Rich Howard
   - Aggelos Bletsas
+
+# Author notes (optional)
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 date: '2025-09-01T00:00:00Z'
 doi: ''
@@ -21,13 +31,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *15th International Conference on Indoor Positioning and Indoor Navigation 2025*
-publication_short: In *IPIN 2025*
+publication: In *IEEE Military Communications Conference 2025*
+publication_short: In *IEEE MILCOM 2025*
 
-abstract: This study presents a neural network approach for static Bluetooth Low Energy (BLE) localization, utilizing phase measurements and carrier frequency per data packet, captured from multi-antenna receiver(s). Traditional phase-based deterministic techniques fail to accurately estimate the position of a tag with a *single* multi-antenna receiver with closely spaced antennas. Our approach addresses this limitation by leveraging neural networks that capture the non-linear distribution of the carrier phase offset (CPO) and filter out noise, enabling robust localization with just one multi-antenna receiver. Among the two neural network architectures tested, the Long Short-Term Memory (LSTM) model demonstrated notable resilience against phase noise and achieved higher accuracy during high-rate tag transmissions compared to the FeedForward (FF) model. Both architectures were trained on simulated or real data, and subsequently tested on real data, with both models outperforming deterministic techniques in scenarios where the latter either excelled or failed to estimate the tag's position.
+abstract: As wireless systems grow smarter and denser, the ability to pinpoint signal sources quickly and efficiently is more critical than ever. This work introduces a novel approach to direction-of-arrival (DoA) estimation that trades powerdemanding antenna arrays for simple, passive backscatter radio tags. Not only it extends passive DoA techniques to handle multiple signal sources, but also leverages randomized tag topologies to enhance robustness. These randomized configurations are especially well suited to environments with synchronization mismatch, turning potential limitations into advantages. Significant gains in accuracy and scalability are demonstrated through simulations and Cramér-Rao Bound analysis, paving the way for energy efficient, spectrum-aware systems.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags: []
 
@@ -39,20 +49,21 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
+url_pdf: ''
 url_code: ''
-url_dataset: 'https://github.com/geoandrs/ble-dataset'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
 
-# # Featured image
-# # To use, add an image named `featured.jpg/png` to your page's folder.
-# image:
-#   caption: ''
-#   focal_point: ''
-#   preview_only: false
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
