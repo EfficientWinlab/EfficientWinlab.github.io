@@ -9,7 +9,7 @@ sections:
     content:
       title: ""
       text: |
-        <div style="max-width: 3200px; margin: 0 auto; padding: 40px 60px; box-sizing: border-box;">
+        <div style="max-width: 6400px; margin: 0 auto; padding: 40px 60px; box-sizing: border-box;">
 
           <!-- Title -->
           <h1 style="text-align: center; margin-bottom: 30px; font-size: 2.5em;">
