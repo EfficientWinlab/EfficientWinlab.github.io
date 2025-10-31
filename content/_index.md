@@ -17,7 +17,7 @@ sections:
 
           <!-- Project description -->
           <p style="font-size: 1.1em; line-height: 1.6; margin-bottom: 30px; text-align: center;">
-            The next era of spectrum is envisioned to have spatially and spectrally adjacent systems that are dynamic...
+            The next era of spectrum is envisioned to have spatially and spectrally adjacent systems that are dynamic, resulting in frequent cross-system interference. This project enables affordable, accurate, near-real-time spectrum situational awareness, including simple spectrum sensing algorithms, distributed mechanisms, and relevant spectrum sensing hardware. In addition, it targets mechanisms at the physical layer that provide radio waveform protection against unwanted interference without modifying existing infrastructure. Techniques include model-based and machine learning approaches, focusing on multidimensional awareness and interference protection. The work aims to demonstrate these principles in the FR3 band using the COSMOS Testbed for next-generation wireless coexistence scenarios.
           </p>
 
           <!-- Image -->
@@ -39,6 +39,8 @@ sections:
           </div>
 
         </div>
+    design:
+      columns: 1
 
   - block: collection
     content:
