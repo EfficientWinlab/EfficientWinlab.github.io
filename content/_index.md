@@ -10,20 +10,36 @@ sections:
       title: ""
       text: |
         <div style="max-width: 1200px; margin: 0 auto; padding: 40px 60px; box-sizing: border-box;">
-          <h1 style="text-align: center;">EFFICIENT: Backscatter Fabric For Multidimensional Spectrum Situational Awareness and Protection</h1>
-          <img src="efficient.png" alt="Efficient" style="width:100%; max-width:100%; display:block; margin: 0 auto;">
-          <p style="text-align: center;">The next era of spectrum is envisioned to have spatially and spectrally adjacent systems that are dynamic, resulting in frequent cross-system interference. This project enables affordable, accurate, near-real-time spectrum situational awareness, including simple spectrum sensing algorithms, distributed mechanisms, and relevant spectrum sensing hardware. In addition, it targets mechanisms at the physical layer that provide radio waveform protection against unwanted interference without modifying existing infrastructure. Techniques include model-based and machine learning approaches, focusing on multidimensional awareness and interference protection. The work aims to demonstrate these principles in the FR3 band using the COSMOS Testbed for next-generation wireless coexistence scenarios.</p>
-          <div style="display: flex; justify-content: center; gap: 80px; flex-wrap: wrap;">
-            <div style="text-align: center;">
+
+          <!-- Title -->
+          <h1 style="text-align: center; margin-bottom: 30px;">
+            EFFICIENT: Backscatter Fabric For Multidimensional Spectrum Situational Awareness and Protection
+          </h1>
+
+          <!-- Image (same width as text) -->
+          <div style="max-width: 100%; margin: 0 auto 30px;">
+            <img src="efficient.png" alt="Efficient" style="width: 100%; height: auto; display: block;">
+          </div>
+
+          <!-- Text -->
+          <p style="text-align: center; margin-bottom: 40px;">
+            The next era of spectrum is envisioned to have spatially and spectrally adjacent systems that are dynamic, resulting in frequent cross-system interference. This project enables affordable, accurate, near-real-time spectrum situational awareness, including simple spectrum sensing algorithms, distributed mechanisms, and relevant spectrum sensing hardware. In addition, it targets mechanisms at the physical layer that provide radio waveform protection against unwanted interference without modifying existing infrastructure. Techniques include model-based and machine learning approaches, focusing on multidimensional awareness and interference protection. The work aims to demonstrate these principles in the FR3 band using the COSMOS Testbed for next-generation wireless coexistence scenarios.
+          </p>
+
+          <!-- Logos side by side -->
+          <div style="display: flex; justify-content: center; align-items: flex-start; gap: 80px; flex-wrap: wrap;">
+            <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
               <img src="nsf.png" alt="NSF" style="height:80px;">
-              <div style="font-weight:bold;">National Science Foundation (NSF)</div>
+              <div style="font-weight:bold; text-align:center;">National Science Foundation (NSF)</div>
             </div>
-            <div style="text-align: center;">
+            <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
               <img src="winlab.png" alt="WINLAB" style="height:80px;">
-              <div style="font-weight:bold;">Wireless Information Network Laboratory (WINLAB)</div>
+              <div style="font-weight:bold; text-align:center;">Wireless Information Network Laboratory (WINLAB)</div>
             </div>
           </div>
+
         </div>
+
     design:
       columns: 1
 
