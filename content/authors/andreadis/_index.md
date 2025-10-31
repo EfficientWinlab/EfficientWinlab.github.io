@@ -57,6 +57,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:geoandrs@winlab.rutgers.edu"
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=UVkZbnIAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
   link: "https://linkedin.com/in/gandreadis-"
