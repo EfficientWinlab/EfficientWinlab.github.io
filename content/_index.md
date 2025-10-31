@@ -9,7 +9,7 @@ sections:
     content:
       text: |
       {{< rawhtml >}}
-      <div style="max-width: 1200px; margin: 0 auto; padding: 40px 60px; box-sizing: border-box;">
+      <div style="max-width: 3000px; margin: 0 auto; padding: 40px 60px; box-sizing: border-box;">
 
         <!-- Project title -->
         <h1 style="font-size: 2.5em; margin-bottom: 20px; text-align: center;">
