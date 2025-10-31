@@ -15,15 +15,15 @@ sections:
             EFFICIENT: Backscatter Fabric For Multidimensional Spectrum Situational Awareness and Protection
           </h1>
 
-          <!-- Project description -->
-          <p style="font-size: 1.1em; line-height: 1.6; margin-bottom: 30px; text-align: center;">
-            The next era of spectrum is envisioned to have spatially and spectrally adjacent systems that are dynamic, resulting in frequent cross-system interference. This project enables affordable, accurate, near-real-time spectrum situational awareness, including simple spectrum sensing algorithms, distributed mechanisms, and relevant spectrum sensing hardware. In addition, it targets mechanisms at the physical layer that provide radio waveform protection against unwanted interference without modifying existing infrastructure. Techniques include model-based and machine learning approaches, focusing on multidimensional awareness and interference protection. The work aims to demonstrate these principles in the FR3 band using the COSMOS Testbed for next-generation wireless coexistence scenarios.
-          </p>
-
           <!-- Image -->
           <div style="text-align: center; margin-bottom: 40px;">
             <img src="efficient.png" alt="Efficient" style="width:100%; max-width:100%; height:auto; display:block; margin: 0 auto;">
           </div>
+
+          <!-- Project description -->
+          <p style="font-size: 1.1em; line-height: 1.6; margin-bottom: 30px; text-align: center;">
+            The next era of spectrum is envisioned to have spatially and spectrally adjacent systems that are dynamic, resulting in frequent cross-system interference. This project enables affordable, accurate, near-real-time spectrum situational awareness, including simple spectrum sensing algorithms, distributed mechanisms, and relevant spectrum sensing hardware. In addition, it targets mechanisms at the physical layer that provide radio waveform protection against unwanted interference without modifying existing infrastructure. Techniques include model-based and machine learning approaches, focusing on multidimensional awareness and interference protection. The work aims to demonstrate these principles in the FR3 band using the COSMOS Testbed for next-generation wireless coexistence scenarios.
+          </p>
 
           <!-- Logos side by side -->
           <div style="display: flex; justify-content: center; align-items: center; gap: 80px; flex-wrap: wrap; margin-bottom: 20px;">

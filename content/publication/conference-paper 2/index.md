@@ -39,6 +39,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
+url_pdf: uploads/Lorem_ipsum.pdf
 url_code: ''
 url_dataset: 'https://github.com/geoandrs/ble-dataset'
 url_poster: ''
