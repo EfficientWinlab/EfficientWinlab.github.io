@@ -39,7 +39,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: Bluetooth ML.pdf
+url_pdf: uploads/Bluetooth ML.pdf
 url_code: ''
 url_dataset: 'https://github.com/geoandrs/ble-dataset'
 url_poster: ''
