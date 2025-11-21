@@ -29,7 +29,7 @@ role: Graduate Researcher, Ph.D.
 # Organizations/Affiliations
 organizations:
 - name: Rutgers University, New Brunswick
-  url: ""
+  url: "https://soe.rutgers.edu/"
 - name: WINLAB
   url: "https://winlab.rutgers.edu/"
 

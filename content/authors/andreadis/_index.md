@@ -15,7 +15,7 @@ first_name: Georgios
 # Is this the primary user of the site?
 superuser: false
 
-university: Rutgers University
+university: Utah
 
 department:
 - Electrical and Computer Engineering
@@ -29,7 +29,7 @@ role: Graduate Researcher, Ph.D.
 # Organizations/Affiliations
 organizations:
 - name: Rutgers University, New Brunswick
-  url: ""
+  url: "https://soe.rutgers.edu/"
 - name: WINLAB
   url: "https://winlab.rutgers.edu/"
 
@@ -44,13 +44,13 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Electrical and Computer Engineering
-    institution: Rutgers University, New Brunswick
-    year: 2029
+    - course: Ph.D. in Electrical and Computer Engineering
+        institution: Rutgers University, New Brunswick
+            year: 2029
 
-  - course: Diploma in Electrical and Computer Engineering
-    institution: Technical University of Crete
-    year: 2024
+            - course: Diploma in Electrical and Computer Engineering
+                  institution: Technical University of Crete
+                      year: 2024
 
 # Social/Academic Networking
 social:
