@@ -5,9 +5,12 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: markdown
+
+  # =============================
+  # Main content with sponsors
+  # =============================
+  - block: html
     content:
-      title: ""
       text: |
         <div style="display: flex; align-items: flex-start; gap: 40px;">
 
@@ -50,11 +53,9 @@ sections:
 
         </div>
 
-
-    design:
-      columns: 1
-
-
+  # =============================
+  # Recent Publications
+  # =============================
   - block: collection
     content:
       title: Recent Publications
@@ -67,6 +68,9 @@ sections:
       view: citation
       columns: '1'
 
+  # =============================
+  # Call-to-action
+  # =============================
   - block: markdown
     content:
       title:
@@ -75,4 +79,5 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+
 ---
