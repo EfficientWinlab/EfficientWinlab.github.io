@@ -45,12 +45,12 @@ interests:
 education:
   courses:
     - course: Ph.D. in Electrical and Computer Engineering
-        institution: Rutgers University, New Brunswick
-            year: 2029
+      institution: Rutgers University, New Brunswick
+      year: 2029
 
-            - course: Diploma in Electrical and Computer Engineering
-                  institution: Technical University of Crete
-                      year: 2024
+    - course: Diploma in Electrical and Computer Engineering
+      institution: Technical University of Crete
+      year: 2024
 
 # Social/Academic Networking
 social:
