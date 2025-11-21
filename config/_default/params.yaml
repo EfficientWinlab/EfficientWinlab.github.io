@@ -39,7 +39,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true          # keep true
     logo: "uploads/rutgers.png"         # path to your navbar icon (place in /static/)
     logo_height: 40px        # adjust height to fit navbar

@@ -9,7 +9,7 @@ sections:
     content:
       title: ""
       text: |
-        <div style="max-width: 7000px; margin: 0 auto; padding: 40px 60px; box-sizing: border-box;">
+        <div style="max-width: 8000px; margin: 0 auto; padding: 40px 60px; box-sizing: border-box;">
 
           <!-- Title -->
           <h1 style="text-align: center; margin-bottom: 30px; font-size: 2.5em;">
@@ -33,15 +33,15 @@ sections:
               <img src="nsf.png" alt="NSF" style="height:80px; width:auto; max-width:100%;">
               <div style="font-weight:bold; text-align:center;">National Science Foundation (NSF)</div>
             </div>
-            <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; flex: 1 1 200px; max-width: 200px;">
-              <a href="https://winlab.rutgers.edu/" target="_blank">
-              <img src="winlab.png" alt="WINLAB" style="height:80px; width:auto; max-width:100%;">
-              <div style="font-weight:bold; text-align:center;">Wireless Information Network Laboratory (WINLAB)</div>
-            </div>
             <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; flex: 1 1 200px; max-width: 300px;">
               <a href="https://soe.rutgers.edu/" target="_blank">
               <img src="rutgers_eng.png" alt="SOE" style="height:80px; width:auto; max-width:100%;">
               <div style="font-weight:bold; text-align:center;">Rutgers - New Brunswick School of Engineering</div>
+            </div>
+            <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; flex: 1 1 200px; max-width: 200px;">
+              <a href="https://winlab.rutgers.edu/" target="_blank">
+              <img src="winlab.png" alt="WINLAB" style="height:80px; width:auto; max-width:100%;">
+              <div style="font-weight:bold; text-align:center;">Wireless Information Network Laboratory (WINLAB)</div>
             </div>
           </div>
 
