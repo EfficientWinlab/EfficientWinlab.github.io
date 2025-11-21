@@ -9,7 +9,7 @@ sections:
   # =============================
   # Main content with sponsors
   # =============================
-  - block: html
+  - block: markdown
     content:
       text: |
         <div style="display: flex; align-items: flex-start; gap: 40px;">
