@@ -29,14 +29,17 @@ sections:
           <!-- Logos side by side, responsive -->
           <div style="display: flex; justify-content: center; align-items: flex-start; gap: 80px; flex-wrap: wrap;">
             <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; flex: 1 1 200px; max-width: 200px;">
+              <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2433991/" target="_blank">
               <img src="nsf.png" alt="NSF" style="height:80px; width:auto; max-width:100%;">
               <div style="font-weight:bold; text-align:center;">National Science Foundation (NSF)</div>
             </div>
             <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; flex: 1 1 200px; max-width: 200px;">
+              <a href="https://winlab.rutgers.edu/" target="_blank">
               <img src="winlab.png" alt="WINLAB" style="height:80px; width:auto; max-width:100%;">
               <div style="font-weight:bold; text-align:center;">Wireless Information Network Laboratory (WINLAB)</div>
             </div>
-            <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; flex: 1 1 200px; max-width: 200px;">
+            <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; flex: 1 1 200px; max-width: 300px;">
+              <a href="https://soe.rutgers.edu/" target="_blank">
               <img src="rutgers_eng.png" alt="SOE" style="height:80px; width:auto; max-width:100%;">
               <div style="font-weight:bold; text-align:center;">Rutgers - New Brunswick School of Engineering</div>
             </div>
