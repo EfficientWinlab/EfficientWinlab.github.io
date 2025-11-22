@@ -28,17 +28,26 @@ sections:
 
           <!-- Logos side by side, responsive -->
           <div style="display: flex; justify-content: center; align-items: flex-start; gap: 80px; flex-wrap: wrap;">
-            <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; flex: 1 1 200px; max-width: 200px;">
+            <!-- NSF block -->
+            <div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
+
+              <!-- Text on left -->
+              <div style="font-weight:bold; text-align:left; max-width:200px;">
+                National Science Foundation (NSF)
+              </div>
+
+              <!-- Image on right -->
               <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2433991/" target="_blank">
-              <img src="nsf2.png" alt="NSF" style="height:80px; width:auto; max-width:100%;">
-              <div style="font-weight:bold; text-align:center;">National Science Foundation (NSF)</div>
+                <img src="/nsf2.png" alt="NSF" style="height:80px; width:auto;">
+              </a>
+
             </div>
             <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; flex: 1 1 200px; max-width: 300px;">
               <a href="https://soe.rutgers.edu/" target="_blank">
               <img src="rutgers_eng2.png" alt="SOE" style="height:80px; width:auto; max-width:100%;">
               <div style="font-weight:bold; text-align:center;">Rutgers - New Brunswick School of Engineering</div>
             </div>
-            <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; flex: 1 1 200px; max-width: 200px;">
+            <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; flex: 1 1 200px; max-width: 400px;">
               <a href="https://winlab.rutgers.edu/" target="_blank">
               <img src="winlab.png" alt="WINLAB" style="height:80px; width:auto; max-width:100%;">
               <div style="font-weight:bold; text-align:center;">Wireless Information Network Laboratory (WINLAB)</div>
