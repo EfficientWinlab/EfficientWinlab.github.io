@@ -41,7 +41,6 @@ sections:
                 style="display:flex; flex-direction:column; align-items:center; text-decoration:none; color:inherit;">
                 <img src="nsf2.png" alt="NSF" style="height:80px; width:auto; max-width:100%;">
                 <div style="font-weight:bold; text-align:center;">National Science Foundation (NSF)</div>
-              </a>
             </div>
 
             <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; flex: 1 1 200px; max-width: 400px;">
@@ -49,7 +48,6 @@ sections:
                 style="display:flex; flex-direction:column; align-items:center; text-decoration:none; color:inherit;">
                 <img src="rutgers_eng2.png" alt="SOE" style="height:80px; width:auto; max-width:100%;">
                 <div style="font-weight:bold; text-align:center;">Rutgers - New Brunswick School of Engineering</div>
-              </a>
             </div>
 
             <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; flex: 1 1 200px; max-width: 400px;">
@@ -57,7 +55,6 @@ sections:
                 style="display:flex; flex-direction:column; align-items:center; text-decoration:none; color:inherit;">
                 <img src="winlab.png" alt="WINLAB" style="height:80px; width:auto; max-width:100%;">
                 <div style="font-weight:bold; text-align:center;">Wireless Information Network Laboratory (WINLAB)</div>
-              </a>
             </div>
 
           </div>
