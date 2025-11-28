@@ -39,6 +39,7 @@ sections:
               <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2433991/" target="_blank">
               <img src="nsf2.png" alt="NSF" style="height:80px; width:auto; max-width:100%;">
               <div style="font-weight:bold; text-align:center;">National Science Foundation (NSF)</div>
+              </a>
             </div>
             <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; flex: 1 1 200px; max-width: 300px;">
               <a href="https://soe.rutgers.edu/" target="_blank">
