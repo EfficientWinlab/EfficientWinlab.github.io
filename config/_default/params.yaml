@@ -57,7 +57,7 @@ header:
     show_theme_chooser: true
     logo:
       text: "EFFICIENT"
-      filename: "rutgers_enf.png" # Place in assets/media/
+      filename: "rutgers_eng2.png" # Place in assets/media/
 
 
 # Site footer
